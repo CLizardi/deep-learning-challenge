@@ -1,4 +1,6 @@
 # Deep Learning Challenge
+![markus-spiske-iar-afB0QQw-unsplash](https://github.com/CLizardi/deep-learning-challenge/assets/52866379/9a335ef5-81c5-468b-ba13-7f6e3e57d758)
+
 
 # Introduction
 Welcome to my deep learning project! This project focuses on applying deep learning techniques to solve a specific problem. By leveraging neural networks and advanced machine learning algorithms, we aim to achieve accurate predictions using a real-world dataset. Using TensorFlow, Keras, and other essential libraries like pandas and scikit-learn, we build and train deep learning models. This repository contains code implementations, documentation, and analyses that showcase my deep learning skills and ability to tackle real-world challenges.
