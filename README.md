@@ -36,7 +36,7 @@ Working with real-world datasets and applying machine learning techniques to sol
 # Conclusion
 This project allowed me to apply my machine learning skills to solve a classification problem in the context of charity organizations. Through the tasks completed, I gained valuable insights into data preprocessing, model training, and evaluation. I also enhanced my knowledge of using TensorFlow and Keras for building deep learning models. Overall, this project was a great learning experience and further solidified my understanding of machine learning concepts.
 
-> # Report 
+> # Written Report 
 The purpose of this analysis was to develop a deep learning model using neural networks to predict the success of Alphabet Soup grant applicants. By harnessing the power of machine learning, the model aims to identify applicants who are most likely to succeed in their businesses. This analysis includes data preprocessing, model compilation, training and evaluation.
 
 > ## Data Preprocessing:
