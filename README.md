@@ -36,19 +36,19 @@ Working with real-world datasets and applying machine learning techniques to sol
 # Conclusion
 This project allowed me to apply my machine learning skills to solve a classification problem in the context of charity organizations. Through the tasks completed, I gained valuable insights into data preprocessing, model training, and evaluation. I also enhanced my knowledge of using TensorFlow and Keras for building deep learning models. Overall, this project was a great learning experience and further solidified my understanding of machine learning concepts.
 
-# <span style="font-size: larger; font-weight: bold;">Report</span>
+> # Report 
 The purpose of this analysis was to develop a deep learning model using neural networks to predict the success of Alphabet Soup grant applicants. By harnessing the power of machine learning, the model aims to identify applicants who are most likely to succeed in their businesses. This analysis includes data preprocessing, model compilation, training and evaluation.
 
-## Results:
-To find out if an applicant was successful when funded, we look at the "IS_SUCCESSFUL" column, which serves as the model's target variable.
-The model's components comprise all columns, except those that are unimportant and do not aid in foretelling the outcome.
-As part of the prediction task, input data has certain variables like "EIN" and "NAME" that are deemed irrelevant and subsequently eliminated.
+> ## Data Preprocessing:
+* To determine the success of an applicant when funded, the target variable used in the model is the "IS_SUCCESSFUL" column.
+* The model's features include all columns except for those that are considered irrelevant and do not contribute to predicting the outcome.
+* Variables such as "EIN" and "NAME" are identified as irrelevant and removed from the input data during the preprocessing stage.
 
-## Compiling, Training, and Evaluating the Model
+> ## Compiling, Training, and Evaluating the Model
 * To enhance its predictive capabilities, the neural network model is outfitted with activation functions, layers, and a predetermined amount of neurons with the aim of capturing the data's intricate complexity.
 * Based on experiment and consideration, the picking of activation functions, layers, and neuron count hinges on the complexity of the dataset.
 * Depending on the dataset and issue at hand, the model's aim performance can fluctuate. It is crucial to establish the metrics for desired performance and compare the outcome with the model's output.
 * Different steps can be taken to improve the model's performance such as experimenting with various activation functions or optimizers, optimizing hyperparameters, applying regularization techniques, increasing training data, and adjusting the model architecture.
 
-## Summary
+> ## Summary
 The deep learning model presents hopeful outcomes. It has the ability to pinpoint applicable features and targets, permitting precise predictions. Nonetheless, it is vital to mull over other models to resolve this classification problem. A gradient boosting machine (GBM), such as XGBoost or LightGBM, is a suggested model. GBMs excel in handling massive datasets, capturing the intricate connections between features, granting elucidation via feature importance analysis, and potentially offering more rapid training and improved performance on high-dimensional datasets. Expanding the search to GBMs as an alternative model could enhance the ability to predict for this classification problem.
